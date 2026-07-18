@@ -1,0 +1,26 @@
+:root{
+    --cor-bg: BLUE;
+}
+
+.caixaTexto {
+    font-size: 32px;
+    color: blueviolet;
+    padding-left: 32px;
+}
+
+.botao{
+    font-size: 32px;
+}
+.vermelho {
+    background-color: red;
+}
+.azul {
+    background-color: blue;
+}
+.amarelo {
+    background-color: yellow;
+}
+
+body {
+    background-color: var(--cor-bg);
+}
